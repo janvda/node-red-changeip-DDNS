@@ -1,6 +1,6 @@
 {
     "name": "node-red-changeip-DDNS",
-    "description": "A Node-RED Project",
+    "description": "node-red flow - changeip.com dynamic DNS update",
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-assert": "1.3.2",
